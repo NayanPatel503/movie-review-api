@@ -1,5 +1,5 @@
 {
-  "name": "movie-review-api-mongo",
+  "name": "movie-review-api",
   "version": "1.0.0",
   "description": "A secure movie review API using Express.js and MongoDB",
   "main": "src/server.js",

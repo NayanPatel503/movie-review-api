@@ -15,7 +15,7 @@ A secure RESTful API for managing movie reviews, built with Express.js and Mongo
 
 ## Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v20.12.0 or higher)
 - MongoDB
 - npm or yarn
 
@@ -24,7 +24,7 @@ A secure RESTful API for managing movie reviews, built with Express.js and Mongo
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd movie-review-api-mongo
+cd movie-review-api
 ```
 
 2. Install dependencies:

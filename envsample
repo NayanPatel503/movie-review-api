@@ -1,0 +1,14 @@
+# Server Configuration
+PORT=3000
+NODE_ENV=development
+
+# MongoDB Configuration
+MONGODB_URI=mongodb://localhost:27017/movie_review_db
+
+# JWT Configuration
+JWT_SECRET=your_jwt_secret
+JWT_EXPIRES_IN=24h
+
+# Admin Configuration
+ADMIN_EMAIL=admin@moviereview.com
+ADMIN_PASSWORD=admin123 
